@@ -1,16 +1,3 @@
-  <p align="center">
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-  </p>
-
-<h1 align="center">Hi, I'm Ahmed Hemeda</h1>
-
-<h2 align="center">Software Engineer | .NET Developer</h2>
-<br>
-
----
 
 <h1 align="center">Mark Medhat</h1>
 
@@ -67,15 +54,6 @@ Mark is an Electrical (Electronics & Communications) Engineer with a strong inte
 **Arab Academy for Science, Technology and Maritime Transport**
 - **Degree:** BSC. OF ELEC. & COMM. ENG, Electrical, Electronics and Communications Engineering
 - **Dates:** September 2024 - 2030
-
----
-<br>
-  <p>
-    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
-  </p>
 
   
   </p>
