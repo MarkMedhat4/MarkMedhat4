@@ -1,24 +1,81 @@
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mark(commandos)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markmedhat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@markmedhat03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markmadhat03@gmail.com) 
+  <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarkMedhat4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarkMedhat4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMedhat4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi, I'm Ahmed Hemeda</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarkMedhat4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MarkMedhat4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">Software Engineer | .NET Developer</h2>
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MarkMedhat4&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Mark Medhat</h1>
+
+<h2 align="center">AAST in Aswan/ GDG AAST Programing & Cyber security | Communication and electronics department/ ICPC AAST | GDG on Campus Mentor</h2>
+
+<p align="center">📍 Aswan, Aswan, Egypt</p>
+
+### 📞 Contact
+- **Mobile:** 01220085313
+- **Email:** markmadhat03@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/markmedhat](https://www.linkedin.com/in/markmedhat)
+- **YouTube:** [youtube.com/@markmedhat03](https://youtube.com/@markmedhat03)
+
+### 🔗 Follow Me
+<p align="left">
+  <a href="https://github.com/MarkMedhat4" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/markmedhat" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+  <a href="https://www.youtube.com/@markmedhat03" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+    <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a>
+</p>
+
+### 📝 Summary
+Mark is an Electrical (Electronics & Communications) Engineer with a strong interest in electronics & communication systems. His background combines technical expertise with hands-on experience in software, hardware, and signal processing. He is passionate about applying engineering principles to solve real-world challenges. He continuously expands his knowledge in modern communication technologies, electronic systems, and digital design. He is open to new opportunities for growth, collaboration, and contributing to innovative engineering projects.
+
+### 🛠️ Top Skills
+- Leucine Environmental Monitoring Software
+- Adobe Illustrator
+- Adobe Audition
+
+### 🏆 Certifications
+- Foundations of User Experience (UX) Design
+- Cybersecurity for Everyone
+- ICPC
+- Start the UX Design Process: Empathize, Define, and Ideate
+
+### 💼 Experience
+
+#### YouTube Educational Content Creator
+**October 2024 - Present (1 year 2 months)** | Aswan, Egypt
+
+- Developed engaging tutorials and review sessions to simplify complex engineering concepts for university students
+- Enhanced academic support through conceptual breakdowns, improving peer understanding and retention
+- Achieved a subscriber growth rate of 150% within the first year, demonstrating impact on student learning
+- Utilized video editing and content creation skills to produce high-quality educational videos
+- Runs a YouTube channel focused on simplifying university-level Engineer College topics for classmates, creating tutorials, review sessions, and conceptual breakdowns for accessible and engaging learning. Content focuses on clarity, engagement, and academic support
+
+#### Electronic & Communication Engineer
+**Egyptian Airports Company** | September 2025 - September 2025 (1 month) | Aswan, Egypt
+
+### 🎓 Education
+
+**Arab Academy for Science, Technology and Maritime Transport**
+- **Degree:** BSC. OF ELEC. & COMM. ENG, Electrical, Electronics and Communications Engineering
+- **Dates:** September 2024 - 2030
+
+---
+<br>
+  <p>
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+  </p>
+
+  
+  </p>
