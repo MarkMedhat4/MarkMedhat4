@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@markmedhat03" target="_blank" aria-label="YouTube">
     <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/>
   </a>&nbsp;&nbsp;
-  <a href="https://markmedhat4.github.io/My-Portifilo/index.html" target="_blank" aria-label="Portfolio">
+  <a href="https://portifilo-vert.vercel.app/" target="_blank" aria-label="Portfolio">
     🌐 Portfolio
   </a>
 </p>
