@@ -24,8 +24,7 @@
 </p>
 
 <p align="center">
-  <!-- TODO: add the new portfolio link here once it is deployed:
-  <a href="YOUR-PORTFOLIO-URL">🌐 Portfolio</a> &nbsp;·&nbsp; -->
+  <a href="https://portifilo-vert.vercel.app/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/commandcode.hub">📸 CommandCode</a> &nbsp;·&nbsp;
   <a href="https://linktr.ee/markmedhat7">🔗 Linktree</a> &nbsp;·&nbsp;
   <a href="https://kafiil.com/u/mark_medhat">Kafiil</a> &nbsp;·&nbsp;
@@ -69,13 +68,13 @@ Electronics & Communications Engineering student at AASTMT Aswan, building acros
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| **Resistor Lab** | Interactive resistor color-code calculator with reverse lookup, reference tables and practice quizzes for engineering students | Web · Electronics Education | [Live](https://resistorlab.vercel.app/) |
-| **ESP32-CAM Mobile Robot** | Mobile robot with live video streaming, ultrasonic radar tracking and a custom RemoteXY control interface | ESP32-CAM · Ultrasonic · RemoteXY · C++ | — |
-| **Environmental Monitoring System** | Reads environmental sensors, logs data and transmits it over Wi-Fi | STM32 · Wi-Fi · Sensors | — |
-| **QR Attendance Management Platform** | Web platform for automated attendance tracking and organization management using QR codes | Next.js · React | — |
-| **Smart Highway & Sustainability System** | IoT system *concept*: adaptive lighting, smart irrigation and solar power with energy storage | IoT · Electronics · Solar | — |
-| **GPA Calculator & Performance Tracker** | Team-built tool that automates weighted GPA computation and semester tracking | Python · Tkinter | — |
-| **7-Segment Digital Clock** | Digital clock built from discrete counter, logic and decoder ICs, no microcontroller | 7493 · 7408 · 7432 · CD4511 | — |
+| **Resistor Lab** | Interactive resistor color-code calculator with reverse lookup, reference tables and practice quizzes for engineering students | JavaScript · Web · Electronics Education | [Live](https://resistorlab.vercel.app/) · [Details](https://portifilo-vert.vercel.app/projects/resistor-lab) |
+| **ESP32-CAM Mobile Robot** | Mobile robot with live video streaming, ultrasonic radar tracking and a custom RemoteXY control interface | ESP32-CAM · Ultrasonic · RemoteXY · C++ | [Details](https://portifilo-vert.vercel.app/projects/esp32-cam-mobile-robot) |
+| **Environmental Monitoring System** | Reads environmental sensors, logs data and transmits it over Wi-Fi | STM32 · Wi-Fi · Sensors | [Details](https://portifilo-vert.vercel.app/projects/environmental-monitoring-system) |
+| **QR Attendance Management Platform** | Web platform for automated attendance tracking and organization management using QR codes | Next.js · React | [Details](https://portifilo-vert.vercel.app/projects/qr-attendance-platform) |
+| **Smart Highway & Sustainability System** | IoT system *concept*: adaptive lighting, smart irrigation and solar power with energy storage | IoT · Electronics · Solar | [Details](https://portifilo-vert.vercel.app/projects/smart-highway) |
+| **GPA Calculator (Tkinter GUI)** | Desktop app, built as an academic team project, that calculates semester and cumulative GPA with automatic letter-grade conversion | Python · Tkinter · OOP | [Repository](https://lnkd.in/dc79XDv6) · [Details](https://portifilo-vert.vercel.app/projects/gpa-calculator) |
+| **Digital Clock (Logic ICs)** | Clock built from discrete counter, logic and decoder ICs instead of a microcontroller, with a 1 Hz divider and 60-second/60-minute rollover | 7493 · 7408 · 7432 · CD4511 | [Details](https://portifilo-vert.vercel.app/projects/digital-clock) |
 
 ---
 
